@@ -10,7 +10,7 @@
 
 ## Introduction
 
-This backend is built using Laravel, a popular PHP framework, to provide robust and efficient API services for an android app.
+This backend is built using Laravel, a popular PHP framework, to provide robust and efficient API services for an android app for hosting meetings.
 
 ## Requirements
 
