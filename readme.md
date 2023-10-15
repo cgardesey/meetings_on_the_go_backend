@@ -10,7 +10,7 @@
 
 ## Introduction
 
-This backend is built using Laravel, a popular PHP framework, to provide robust and efficient API services for the [**Meetings on the Go** android app](https://github.com/cgardesey/MeetingsOnTheGo).
+This backend is built using Laravel, a popular PHP framework, to provide robust and efficient API services for an android app.
 
 ## Requirements
 
@@ -70,7 +70,6 @@ If you'd like to contribute to this project, please follow these steps:
 
 Please ensure that your code follows the project's coding standards and includes appropriate tests for any new functionality.
 
-If you're looking to integrate with the android project, make sure to check out the repository corresponding to the [Meetings on the Go Android App](https://github.com/cgardesey/MeetingsOnTheGo) for detailed instructions.
 ## License
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use it as a reference or starting point for your own projects.
 
